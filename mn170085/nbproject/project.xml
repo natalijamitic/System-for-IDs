@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/car-project/1">
+            <name>mn170085</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <explicit-platform explicit-source-supported="true"/>
+            <source-roots>
+                <root id="src.dir" name="Source Packages"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir" name="Test Packages"/>
+            </test-roots>
+            <included-library dirs="200">file.reference.javafx-swt.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.base.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.controls.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.fxml.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.graphics.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.media.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.swing.jar</included-library>
+            <included-library dirs="200">file.reference.javafx.web.jar</included-library>
+            <included-library dirs="200">file.reference.javax.annotation.jar</included-library>
+            <included-library dirs="200">file.reference.javax.persistence-2.1.0.jar</included-library>
+            <included-library dirs="200">file.reference.json-simple-1.1.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.antlr-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.asm-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.core-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa.jpql-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa.modelgen.processor-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.mysql-connector-java-8.0.18.jar</included-library>
+            <included-library dirs="200">file.reference.javaee-api-7.0.jar</included-library>
+        </data>
+    </configuration>
+</project>
